@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
-<h3 align="center">Full Stack & Mobile App Developer</h3>
+<h3 align="center">Upcoming Python Developer</h3>
 
 ---
 
@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 ## ✨ Featured Projects
 
-- 🚀 **[Kultout Course Portal](https://github.com/connectsachin6-ops/Kultout-Course-Portal)**  
-  LMS course management app (React Native + Firebase) — Course creation, enrollment, and progress tracking with custom authentication.
+- 
 
 - 💳 **[The Credit Card Helper App](https://github.com/connectsachin6-ops/Credit-Card-Helper)**  
   Manage and track credit card bills and expenses with secure authentication and cloud storage.
