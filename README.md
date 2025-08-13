@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **connectsachin6-ops/connectsachin6-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 ## 🛠 Skills
 
-- *Languages:* Python, JavaScript, C, C++  
-- *Frameworks:* Django, React, Node.js, Express  
-- *Databases:* MySQL, MongoDB, Firebase  
+- *Languages:* Python, JavaScript 
+- *Frameworks:* Django, React, 
+- *Databases:* MySQL,  
 - *Cloud:* AWS  
 - *Tools:* Git, GitHub, Postman  
 
